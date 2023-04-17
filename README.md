@@ -10,7 +10,7 @@ Phenological stages are recorded from 11 plots for 5 years, including two variet
 ## 2. Phenological classification
 The Crop Protection Agency (CPA) in La Rioja defined the phenological stages for grapevines for the most common varieties of grapes in La Rioja IGP. It is based on Baggiolini scale, and the classification is applied to many varieties of grapes and widely used in many wine regions in Spain
 
-'''
+```
 Phenological status - Description
 A - Winter bud.
 B1 - Cry.
@@ -31,7 +31,7 @@ M2 - Full veraison.
 N - Ripening.
 O1 - Beginning of leaf fall (5% of fallen leaves).
 O2 - Full leaf fall.
-'''
+```
 
 ## 3. Plots situation
 * Tempranillo: 7 plots (P101, P102, P106, P111, P117, P119, P93), total area: 43.576 m2 
